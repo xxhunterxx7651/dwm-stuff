@@ -1,1 +1,2 @@
-# dwm-stuff
+# My vxwm dot files
+THE FAULT LIES WITH YOU ISHMAIL
