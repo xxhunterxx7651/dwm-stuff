@@ -1,0 +1,12 @@
+[general]
+import = [
+    "~/.cache/wal/colors-alacritty.toml"
+]
+
+[font]
+size = 6
+[font.normal]
+family = "Iosevka Nerd Font"
+
+[window]
+opacity = 1
