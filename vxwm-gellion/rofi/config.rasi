@@ -1,2 +1,4 @@
 @import "~/.cache/wal/colors-rofi-light.rasi"
-
+configuration {
+  font: "Iosevka Nerd Font 12";
+}
