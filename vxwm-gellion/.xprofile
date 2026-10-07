@@ -1,0 +1,3 @@
+picom --daemon &
+wal -R &
+polybar &
