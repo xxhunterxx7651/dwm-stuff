@@ -1,2 +1,2 @@
-# dwm-stuff
-my personal dwm dotfiles
+# hyprstuff
+my personal hyprland dotfiles
